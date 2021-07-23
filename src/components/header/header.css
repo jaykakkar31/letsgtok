@@ -1,0 +1,22 @@
+
+.navbar-brand {
+	font-size: 225%;
+	font-weight: 500;
+}
+
+
+
+.center {
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+.colored-section{
+    padding: 1% 6%;
+}
+
+.nav-item{
+    padding: 0 4%;
+}
+
+/* @media (max-width: 1028px)  */

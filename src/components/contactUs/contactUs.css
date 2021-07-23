@@ -1,0 +1,14 @@
+form{
+    padding: 10%;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+.divForm{
+    display: flex;
+    justify-content: center;
+}
+

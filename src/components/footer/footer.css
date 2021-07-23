@@ -1,0 +1,21 @@
+.social-icon {
+	margin: 0 20px 10%;
+        cursor: pointer;
+
+
+}
+.icons{
+    font-size: 150%;
+}
+#footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.icons a{
+    color: black;
+}
+.icons a:hover{
+    color: #6930db;
+}
